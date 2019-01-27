@@ -1,0 +1,5 @@
+web:
+ baseUrl: https://wwww.amazon.in
+chrome:
+   headless: ${RUN_CHROME_HEADLESS:false}
+   configuration: DESKTOP
